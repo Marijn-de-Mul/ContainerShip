@@ -1,0 +1,15 @@
+C:\Users\MarijndeMul\OneDrive - Office 365 Fontys\Github\Semester2\Algoritmiek\ContainerShip\ContainerShip\bin\Debug\net8.0\ContainerShip.exe
+C:\Users\MarijndeMul\OneDrive - Office 365 Fontys\Github\Semester2\Algoritmiek\ContainerShip\ContainerShip\bin\Debug\net8.0\ContainerShip.deps.json
+C:\Users\MarijndeMul\OneDrive - Office 365 Fontys\Github\Semester2\Algoritmiek\ContainerShip\ContainerShip\bin\Debug\net8.0\ContainerShip.runtimeconfig.json
+C:\Users\MarijndeMul\OneDrive - Office 365 Fontys\Github\Semester2\Algoritmiek\ContainerShip\ContainerShip\bin\Debug\net8.0\ContainerShip.dll
+C:\Users\MarijndeMul\OneDrive - Office 365 Fontys\Github\Semester2\Algoritmiek\ContainerShip\ContainerShip\bin\Debug\net8.0\ContainerShip.pdb
+C:\Users\MarijndeMul\OneDrive - Office 365 Fontys\Github\Semester2\Algoritmiek\ContainerShip\ContainerShip\obj\Debug\net8.0\ContainerShip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarijndeMul\OneDrive - Office 365 Fontys\Github\Semester2\Algoritmiek\ContainerShip\ContainerShip\obj\Debug\net8.0\ContainerShip.AssemblyInfoInputs.cache
+C:\Users\MarijndeMul\OneDrive - Office 365 Fontys\Github\Semester2\Algoritmiek\ContainerShip\ContainerShip\obj\Debug\net8.0\ContainerShip.AssemblyInfo.cs
+C:\Users\MarijndeMul\OneDrive - Office 365 Fontys\Github\Semester2\Algoritmiek\ContainerShip\ContainerShip\obj\Debug\net8.0\ContainerShip.csproj.CoreCompileInputs.cache
+C:\Users\MarijndeMul\OneDrive - Office 365 Fontys\Github\Semester2\Algoritmiek\ContainerShip\ContainerShip\obj\Debug\net8.0\ContainerShip.sourcelink.json
+C:\Users\MarijndeMul\OneDrive - Office 365 Fontys\Github\Semester2\Algoritmiek\ContainerShip\ContainerShip\obj\Debug\net8.0\ContainerShip.dll
+C:\Users\MarijndeMul\OneDrive - Office 365 Fontys\Github\Semester2\Algoritmiek\ContainerShip\ContainerShip\obj\Debug\net8.0\refint\ContainerShip.dll
+C:\Users\MarijndeMul\OneDrive - Office 365 Fontys\Github\Semester2\Algoritmiek\ContainerShip\ContainerShip\obj\Debug\net8.0\ContainerShip.pdb
+C:\Users\MarijndeMul\OneDrive - Office 365 Fontys\Github\Semester2\Algoritmiek\ContainerShip\ContainerShip\obj\Debug\net8.0\ContainerShip.genruntimeconfig.cache
+C:\Users\MarijndeMul\OneDrive - Office 365 Fontys\Github\Semester2\Algoritmiek\ContainerShip\ContainerShip\obj\Debug\net8.0\ref\ContainerShip.dll

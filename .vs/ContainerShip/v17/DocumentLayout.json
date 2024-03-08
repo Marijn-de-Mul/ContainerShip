@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\ContainerShip\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{07ECF06A-5A75-43C9-B117-9D984E4A12F3}|ContainerShip\\ContainerShip.csproj|c:\\users\\marijndemul\\onedrive - office 365 fontys\\github\\semester2\\algoritmiek\\containership\\containership\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ECF06A-5A75-43C9-B117-9D984E4A12F3}|ContainerShip\\ContainerShip.csproj|solutionrelative:containership\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ECF06A-5A75-43C9-B117-9D984E4A12F3}|ContainerShip\\ContainerShip.csproj|c:\\users\\marijndemul\\onedrive - office 365 fontys\\github\\semester2\\algoritmiek\\containership\\containership\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ECF06A-5A75-43C9-B117-9D984E4A12F3}|ContainerShip\\ContainerShip.csproj|solutionrelative:containership\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{07ECF06A-5A75-43C9-B117-9D984E4A12F3}|ContainerShip\\ContainerShip.csproj|c:\\users\\marijndemul\\onedrive - office 365 fontys\\github\\semester2\\algoritmiek\\containership\\containership\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07ECF06A-5A75-43C9-B117-9D984E4A12F3}|ContainerShip\\ContainerShip.csproj|solutionrelative:containership\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ECF06A-5A75-43C9-B117-9D984E4A12F3}|ContainerShip\\ContainerShip.csproj|c:\\users\\marijndemul\\onedrive - office 365 fontys\\github\\semester2\\algoritmiek\\containership\\containership\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ECF06A-5A75-43C9-B117-9D984E4A12F3}|ContainerShip\\ContainerShip.csproj|solutionrelative:containership\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ECF06A-5A75-43C9-B117-9D984E4A12F3}|ContainerShip\\ContainerShip.csproj|c:\\users\\marijndemul\\onedrive - office 365 fontys\\github\\semester2\\algoritmiek\\containership\\containership\\containerspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ECF06A-5A75-43C9-B117-9D984E4A12F3}|ContainerShip\\ContainerShip.csproj|solutionrelative:containership\\containerspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +38,65 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContainerSpot.cs",
+              "DocumentMoniker": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\ContainerShip\\ContainerShip\\ContainerSpot.cs",
+              "RelativeDocumentMoniker": "ContainerShip\\ContainerSpot.cs",
+              "ToolTip": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\ContainerShip\\ContainerShip\\ContainerSpot.cs",
+              "RelativeToolTip": "ContainerShip\\ContainerSpot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:11:03.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\ContainerShip\\ContainerShip\\Ship.cs",
+              "RelativeDocumentMoniker": "ContainerShip\\Ship.cs",
+              "ToolTip": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\ContainerShip\\ContainerShip\\Ship.cs",
+              "RelativeToolTip": "ContainerShip\\Ship.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T13:26:01.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Container.cs",
+              "DocumentMoniker": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\ContainerShip\\ContainerShip\\Container.cs",
+              "RelativeDocumentMoniker": "ContainerShip\\Container.cs",
+              "ToolTip": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\ContainerShip\\ContainerShip\\Container.cs",
+              "RelativeToolTip": "ContainerShip\\Container.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T13:25:51.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Input.cs",
+              "DocumentMoniker": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\ContainerShip\\ContainerShip\\Input.cs",
+              "RelativeDocumentMoniker": "ContainerShip\\Input.cs",
+              "ToolTip": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\ContainerShip\\ContainerShip\\Input.cs",
+              "RelativeToolTip": "ContainerShip\\Input.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T13:20:17.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\ContainerShip\\ContainerShip\\Program.cs",
               "RelativeDocumentMoniker": "ContainerShip\\Program.cs",
               "ToolTip": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\ContainerShip\\ContainerShip\\Program.cs",
               "RelativeToolTip": "ContainerShip\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-08T13:11:07.693Z",
               "EditorCaption": ""
